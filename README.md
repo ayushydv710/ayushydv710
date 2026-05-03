@@ -66,11 +66,10 @@ I am a first-year B.Tech student learning software development, programming fund
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="50%">
-      <h3>Personal Portfolio Website</h3>
-      <p>A responsive portfolio website to present my profile, skills, projects, and contact details.</p>
-      <p><strong>Learning:</strong> responsive layout, clean UI, project presentation</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><strong>Status:</strong> Coming soon</p>
+      <h3><a href="https://github.com/ayushydv710/my-introduction">My Introduction</a></h3>
+      <p>A personal introduction repository that shares my learning journey, interests, goals, and current projects.</p>
+      <p><strong>Learning:</strong> GitHub profile building, Markdown, documentation</p>
+      <p><code>Markdown</code> <code>GitHub</code> <code>Documentation</code></p>
     </td>
   </tr>
 </table>
