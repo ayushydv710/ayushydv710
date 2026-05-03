@@ -38,17 +38,86 @@ I am a first-year B.Tech student exploring software development, programming fun
 - Creating small projects with clean code
 - Understanding how real-world software is built
 
-## Projects
+## Featured Learning Projects
 
-Here are a few project ideas I am working on or planning to build:
+These are beginner-friendly projects I am building to improve my coding, logic, and problem-solving skills.
 
-- Student grade calculator
-- Personal portfolio website
-- To-do list web app
-- Simple quiz application
-- Basic Python automation scripts
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Student Grade Calculator</h3>
+      <p>A simple program that takes marks as input and calculates total marks, percentage, grade, and result status.</p>
+      <p><strong>Skills:</strong> conditionals, loops, functions, input handling</p>
+      <p>
+        <code>C</code>
+        <code>C++</code>
+        <code>Logic Building</code>
+      </p>
+      <p><strong>Status:</strong> Building</p>
+    </td>
+    <td width="50%">
+      <h3>Personal Portfolio Website</h3>
+      <p>A responsive personal website to introduce myself, showcase skills, and share my learning journey.</p>
+      <p><strong>Skills:</strong> layout design, responsive web pages, clean UI</p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+      </p>
+      <p><strong>Status:</strong> In progress</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>To-Do List Web App</h3>
+      <p>A small productivity app where users can add, complete, and delete tasks from a clean interface.</p>
+      <p><strong>Skills:</strong> DOM manipulation, events, basic app structure</p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+      </p>
+      <p><strong>Status:</strong> Planned</p>
+    </td>
+    <td width="50%">
+      <h3>Quiz Application</h3>
+      <p>An interactive quiz app with multiple-choice questions, score tracking, and instant feedback.</p>
+      <p><strong>Skills:</strong> arrays, functions, user interaction, basic logic</p>
+      <p>
+        <code>JavaScript</code>
+        <code>HTML</code>
+        <code>CSS</code>
+      </p>
+      <p><strong>Status:</strong> Planned</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Python File Organizer</h3>
+      <p>A Python script that organizes files into folders based on file type to practice automation basics.</p>
+      <p><strong>Skills:</strong> file handling, modules, automation thinking</p>
+      <p>
+        <code>Python</code>
+        <code>Automation</code>
+        <code>File Handling</code>
+      </p>
+      <p><strong>Status:</strong> Planned</p>
+    </td>
+    <td width="50%">
+      <h3>Number Guessing Game</h3>
+      <p>A console-based game where the player guesses a random number with hints after each attempt.</p>
+      <p><strong>Skills:</strong> loops, random numbers, conditions, user input</p>
+      <p>
+        <code>Python</code>
+        <code>C</code>
+        <code>Beginner Project</code>
+      </p>
+      <p><strong>Status:</strong> Practicing</p>
+    </td>
+  </tr>
+</table>
 
-As I learn more, I will keep adding my best projects here.
+I will keep improving these projects and add repository links as I publish them.
 
 ## GitHub Stats
 
