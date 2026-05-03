@@ -46,13 +46,13 @@ I am a first-year B.Tech student learning software development, programming fund
 <table>
   <tr>
     <td width="50%">
-      <h3>Student Grade Calculator</h3>
+      <h3><a href="https://github.com/ayushydv710/student-grade-calculator">Student Grade Calculator</a></h3>
       <p>A C++ console project that calculates total marks, percentage, grade, and result status.</p>
       <p><strong>Learning:</strong> input handling, conditionals, loops, functions</p>
       <p><code>C++</code> <code>Logic Building</code> <code>CLI</code></p>
     </td>
     <td width="50%">
-      <h3>Number Guessing Game</h3>
+      <h3><a href="https://github.com/ayushydv710/number-guessing-game">Number Guessing Game</a></h3>
       <p>A Python game where the player guesses a random number using hints after each attempt.</p>
       <p><strong>Learning:</strong> loops, random numbers, user input, validation</p>
       <p><code>Python</code> <code>Beginner Project</code> <code>CLI</code></p>
@@ -60,7 +60,7 @@ I am a first-year B.Tech student learning software development, programming fund
   </tr>
   <tr>
     <td width="50%">
-      <h3>To-Do List Web App</h3>
+      <h3><a href="https://github.com/ayushydv710/todo-list-web-app">To-Do List Web App</a></h3>
       <p>A simple web app to add, complete, filter, and delete daily tasks in the browser.</p>
       <p><strong>Learning:</strong> DOM manipulation, events, local storage</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
@@ -70,6 +70,7 @@ I am a first-year B.Tech student learning software development, programming fund
       <p>A responsive portfolio website to present my profile, skills, projects, and contact details.</p>
       <p><strong>Learning:</strong> responsive layout, clean UI, project presentation</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><strong>Status:</strong> Coming soon</p>
     </td>
   </tr>
 </table>
