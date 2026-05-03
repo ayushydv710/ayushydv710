@@ -1,18 +1,29 @@
 # Hi, I'm Ayush Yadav
 
-I am a first-year B.Tech student exploring software development, programming fundamentals, and problem solving. I am currently building my foundation in computer science through small projects, consistent practice, and learning by doing.
+I am a first-year B.Tech student learning software development, programming fundamentals, and problem solving. I am focused on building a strong computer science foundation through consistent practice, clean beginner projects, and hands-on learning.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayushydv710&style=for-the-badge&color=0e75b6)
+![GitHub Followers](https://img.shields.io/github/followers/ayushydv710?style=for-the-badge&logo=github)
 
 ## About Me
 
-- B.Tech first-year student
+- First-year B.Tech student
 - Interested in software development, web development, and problem solving
-- Currently learning programming fundamentals, data structures, Git, and GitHub
-- Building beginner-friendly projects to improve my practical skills
-- Open to learning, collaboration, and new opportunities
+- Currently learning C, C++, Python, HTML, CSS, JavaScript, Git, and GitHub
+- Practicing programming logic and beginner data structures
+- Building small projects to improve practical coding skills
 
-## Skills I Am Learning
+## Current Learning Focus
 
-### Programming
+- Programming fundamentals and logic building
+- Data structures and algorithms basics
+- Responsive web development
+- Git, GitHub, and clean project documentation
+- Writing readable code and improving step by step
+
+## Tech Stack
+
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,100 +41,52 @@ I am a first-year B.Tech student exploring software development, programming fun
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Current Focus
-
-- Strengthening programming logic
-- Learning data structures and algorithms
-- Practicing problem solving regularly
-- Creating small projects with clean code
-- Understanding how real-world software is built
-
 ## Featured Learning Projects
-
-These are beginner-friendly projects I am building to improve my coding, logic, and problem-solving skills.
 
 <table>
   <tr>
     <td width="50%">
       <h3>Student Grade Calculator</h3>
-      <p>A simple program that takes marks as input and calculates total marks, percentage, grade, and result status.</p>
-      <p><strong>Skills:</strong> conditionals, loops, functions, input handling</p>
-      <p>
-        <code>C</code>
-        <code>C++</code>
-        <code>Logic Building</code>
-      </p>
-      <p><strong>Status:</strong> Building</p>
+      <p>A C++ console project that calculates total marks, percentage, grade, and result status.</p>
+      <p><strong>Learning:</strong> input handling, conditionals, loops, functions</p>
+      <p><code>C++</code> <code>Logic Building</code> <code>CLI</code></p>
     </td>
     <td width="50%">
-      <h3>Personal Portfolio Website</h3>
-      <p>A responsive personal website to introduce myself, showcase skills, and share my learning journey.</p>
-      <p><strong>Skills:</strong> layout design, responsive web pages, clean UI</p>
-      <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>JavaScript</code>
-      </p>
-      <p><strong>Status:</strong> In progress</p>
+      <h3>Number Guessing Game</h3>
+      <p>A Python game where the player guesses a random number using hints after each attempt.</p>
+      <p><strong>Learning:</strong> loops, random numbers, user input, validation</p>
+      <p><code>Python</code> <code>Beginner Project</code> <code>CLI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>To-Do List Web App</h3>
-      <p>A small productivity app where users can add, complete, and delete tasks from a clean interface.</p>
-      <p><strong>Skills:</strong> DOM manipulation, events, basic app structure</p>
-      <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>JavaScript</code>
-      </p>
-      <p><strong>Status:</strong> Planned</p>
+      <p>A simple web app to add, complete, filter, and delete daily tasks in the browser.</p>
+      <p><strong>Learning:</strong> DOM manipulation, events, local storage</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="50%">
-      <h3>Quiz Application</h3>
-      <p>An interactive quiz app with multiple-choice questions, score tracking, and instant feedback.</p>
-      <p><strong>Skills:</strong> arrays, functions, user interaction, basic logic</p>
-      <p>
-        <code>JavaScript</code>
-        <code>HTML</code>
-        <code>CSS</code>
-      </p>
-      <p><strong>Status:</strong> Planned</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Python File Organizer</h3>
-      <p>A Python script that organizes files into folders based on file type to practice automation basics.</p>
-      <p><strong>Skills:</strong> file handling, modules, automation thinking</p>
-      <p>
-        <code>Python</code>
-        <code>Automation</code>
-        <code>File Handling</code>
-      </p>
-      <p><strong>Status:</strong> Planned</p>
-    </td>
-    <td width="50%">
-      <h3>Number Guessing Game</h3>
-      <p>A console-based game where the player guesses a random number with hints after each attempt.</p>
-      <p><strong>Skills:</strong> loops, random numbers, conditions, user input</p>
-      <p>
-        <code>Python</code>
-        <code>C</code>
-        <code>Beginner Project</code>
-      </p>
-      <p><strong>Status:</strong> Practicing</p>
+      <h3>Personal Portfolio Website</h3>
+      <p>A responsive portfolio website to present my profile, skills, projects, and contact details.</p>
+      <p><strong>Learning:</strong> responsive layout, clean UI, project presentation</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
-
-I will keep improving these projects and add repository links as I publish them.
 
 ## GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushydv710&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv710&layout=compact&theme=default)
+
+## Learning Roadmap
+
+- Build and publish beginner projects regularly
+- Practice data structures and algorithms
+- Improve web development skills with real mini projects
+- Learn how to write better README files and documentation
+- Contribute to open-source projects when ready
 
 ## Connect With Me
 
